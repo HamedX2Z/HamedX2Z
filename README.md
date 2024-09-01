@@ -8,9 +8,6 @@
     <td>
       <img src="https://streak-stats.demolab.com?user=HamedX2Z&theme=radical" alt="GitHub Streak Stats"/>
     </td>
-    <td>
-      <img align="right" height="186" src="https://uploadkon.ir/uploads/547c01_24levi.gif"/>
-    </td>
   </tr>
 </table>
 
@@ -21,7 +18,9 @@
     <td style="vertical-align: top;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamedX2Z&hide_progress=true&theme=radical" alt="Top Langs"/>
     </td>
-
+    <td>
+      <img align="right" height="186" src="https://uploadkon.ir/uploads/547c01_24levi.gif"/>
+    </td>
  <!-- Social Media Box Section -->
 <td style="vertical-align: top;">
   <table style="border: 1px solid #e4e2e2; border-spacing: 0; padding: 0; margin-left: 20px; border-radius: 5px; background-color: #141321;">
