@@ -16,7 +16,7 @@
   <tr>
     <!-- Top Languages Section -->
     <td style="vertical-align: top;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamedX2Z&hide_progress=true&theme=radical" alt="Top Langs"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamedX2Z&hide_progress=false&theme=radical" alt="Top Langs"/>
     </td>
     <td>
       <img align="right" height="186" src="https://uploadkon.ir/uploads/547c01_24levi.gif"/>
