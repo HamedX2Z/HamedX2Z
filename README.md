@@ -86,7 +86,7 @@
   <table style="border: 1px solid #e4e2e2; border-spacing: 0; padding: 0; margin-left: 20px; border-radius: 5px; background-color: #141321;">
     <tr>
       <td style="padding: 10px;">
-        <a href="https://www.linkedin.com/in/hamed-rahmati-788427298/" target="_blank">
+        <a href="www.linkedin.com/in/morteza-rahmati-788427298" target="_blank">
           <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
         </a>
         <a href="https://www.instagram.com/heyy.hamed/" target="_blank">
