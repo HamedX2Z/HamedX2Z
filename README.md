@@ -1,4 +1,4 @@
-[![HamedX2Z github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HamedX2Z&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!--[![HamedX2Z github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HamedX2Z&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 <table cellspacing="0" cellpadding="0">
   <tr>
